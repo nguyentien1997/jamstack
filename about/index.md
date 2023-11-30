@@ -1,3 +1,8 @@
+---
+layout: layout.njk
+title: About | My Blog
+---
+
 # About me
 
 I love __markdown__!.
